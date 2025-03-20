@@ -1,7 +1,7 @@
 
 # furniture_shop_ui
 
-## A new Flutter project.
+## Flutter project as a template of funiture shop
 this is flutter UI homepage, filter and cart screen.
 JUST clone and implement it.
 
