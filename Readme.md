@@ -3,8 +3,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
 this is flutter UI homepage, filter and cart screen.
 JUST clone and implement it.
 
