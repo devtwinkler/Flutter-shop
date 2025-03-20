@@ -1,4 +1,4 @@
-package com.example.furniture.furniture_shop_ui
+package com.example.furniture.flutter_shop
 
 import io.flutter.embedding.android.FlutterActivity
 

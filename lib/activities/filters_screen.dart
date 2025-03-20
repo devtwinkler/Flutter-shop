@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:furniture_shop_ui/activities/shopping_cart_screen.dart';
+import 'package:flutter_shop/activities/shopping_cart_screen.dart';
 
 class FiltersScreen extends StatefulWidget {
   @override

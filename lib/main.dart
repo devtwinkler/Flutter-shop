@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:furniture_shop_ui/utils/rounded_clipper.dart';
+import 'package:flutter_shop/utils/rounded_clipper.dart';
 import 'activities/filters_screen.dart';
 import 'data_model/single_category_item.dart';
 void main() => runApp(MyApp());
