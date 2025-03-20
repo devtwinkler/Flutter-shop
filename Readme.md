@@ -1,5 +1,5 @@
 
-# furniture_shop_ui
+# Flutter Shop
 
 ## Flutter project as a template of funiture shop
 this is flutter UI homepage, filter and cart screen.
